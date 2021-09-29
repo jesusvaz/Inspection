@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Inspection/static/css/main.f174cb6a.chunk.css",
+    "main.js": "/Inspection/static/js/main.956396f0.chunk.js",
+    "main.js.map": "/Inspection/static/js/main.956396f0.chunk.js.map",
+    "runtime~main.js": "/Inspection/static/js/runtime~main.ead190f7.js",
+    "runtime~main.js.map": "/Inspection/static/js/runtime~main.ead190f7.js.map",
+    "static/css/2.12da0d42.chunk.css": "/Inspection/static/css/2.12da0d42.chunk.css",
+    "static/js/2.82946d03.chunk.js": "/Inspection/static/js/2.82946d03.chunk.js",
+    "static/js/2.82946d03.chunk.js.map": "/Inspection/static/js/2.82946d03.chunk.js.map",
+    "index.html": "/Inspection/index.html",
+    "precache-manifest.c1a9edb41800e01cc0da1c1ed42fc556.js": "/Inspection/precache-manifest.c1a9edb41800e01cc0da1c1ed42fc556.js",
+    "service-worker.js": "/Inspection/service-worker.js",
+    "static/css/2.12da0d42.chunk.css.map": "/Inspection/static/css/2.12da0d42.chunk.css.map",
+    "static/css/main.f174cb6a.chunk.css.map": "/Inspection/static/css/main.f174cb6a.chunk.css.map",
+    "static/media/QAInspector.svg": "/Inspection/static/media/QAInspector.c0c0c189.svg",
+    "static/media/houses.svg": "/Inspection/static/media/houses.dda3680b.svg",
+    "static/media/ndt.png": "/Inspection/static/media/ndt.643ebbbd.png"
+  }
+}
