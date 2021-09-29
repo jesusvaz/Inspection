@@ -1,0 +1,21 @@
+
+
+.imagen{
+    animation-name: myanimation;
+    animation-duration: 3s; 
+}
+
+.img-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.desc{
+    padding: 1rem; 
+}
+
+@keyframes myanimation{
+    0% {opacity: 0;} // CSS properties at start
+    100% {opacity: 1;} 
+}

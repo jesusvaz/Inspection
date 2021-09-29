@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.svg-img{
+    width: 100%; height: auto;
+}
+
+.imagen{
+    animation-name: myanimation;
+    animation-duration: 3s; 
+}
+
+
+
+@keyframes myanimation{
+    0% {opacity: 0;} // CSS properties at start
+    100% {opacity: 1;} 
+}

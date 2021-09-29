@@ -1,0 +1,23 @@
+.portrait{
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    border-style: solid;
+
+}
+
+
+.imagen{
+
+    height:"200px"; 
+    width:"200px";
+    // width: 100%; 
+    // height: auto;
+    animation-name: myanimation;
+    animation-duration: 3s; 
+}
+
+@keyframes myanimation{
+    0% {opacity: 0;} // CSS properties at start
+    100% {opacity: 1;} 
+}

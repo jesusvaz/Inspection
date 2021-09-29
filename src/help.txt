@@ -1,0 +1,11 @@
+
+
+ <div className="svgProduct">
+            <Product localities={portfolio.localities}
+            image = {svg1} 
+            imageDesc="Employees" 
+            productDescription="Inspection Services"/>
+        </div>
+
+           //console.log("(Poduct) :",JSON.stringify(localities));
+    // const places = localities.map(l => (<h2>l.number</h2>))
